@@ -1,10 +1,12 @@
 # cat-shopping
 This repository is the location where you want to save the memo of shopping  
 *githubshopで買い物を楽しむレポジトリです*
-まだ準備中
+> GitHub Shopとは？  
+github関連のアイテムを購入することができます。詳しくは、
+<http://github.myshopify.com>
 
 ##どういうサイト
-> Github Shopでお買い物をするサイトです
+> GitHub Shopでお買い物をするサイトです
 
 ##かねいくらかかんの？
 > 未定です
