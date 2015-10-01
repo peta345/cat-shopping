@@ -18,4 +18,4 @@ github関連のアイテムを購入することができます。詳しくは�
 > 審査待ちです
 
 
-#this is tomori
+#i am tomori
